@@ -6,5 +6,6 @@ public class name {
         System.out.println("爱你1");
         System.out.println("爱你2");
         System.out.println("爱你3");
+        System.out.println("爱你4");
     }
 }
